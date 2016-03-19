@@ -13,12 +13,17 @@ _2 TILs and counting..._
 ### Categories
 
 * [Git](#git)
+* [GitHub](#github)
 
 ---
 
 ### Git
 
-- [Copy file from another branch](git/copy-file-from-another-branch.md)
+* [Copy file from another branch](git/copy-file-from-another-branch.md)
+
+### GitHub
+
+* [Push an existing repo to GitHub](github/push-existing-repo-to-github.md)
 
 ## About
 
