@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"name": "Today I Learned",
+			"path": ".",
+			"file_exlude_patterns": [
+				"*.sublime-workspace"],
+			"folder_exclude_patterns": [
+				".git"]
+		}
+	]
+}
