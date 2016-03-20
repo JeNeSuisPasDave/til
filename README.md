@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_2 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -14,16 +14,22 @@ _2 TILs and counting..._
 
 * [Git](#git)
 * [GitHub](#github)
+* [Naming Conventions](#naming-conventions)
 
 ---
 
 ### Git
 
+* [Git steps after completing a topic branch](git/completing-topic-branch.md)
 * [Copy file from another branch](git/copy-file-from-another-branch.md)
 
 ### GitHub
 
 * [Push an existing repo to GitHub](github/push-existing-repo-to-github.md)
+
+### Naming Conventions
+
+* [Semantic Versioning](naming-conventions/semantic-versioning.md)
 
 ## About
 
