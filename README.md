@@ -12,11 +12,16 @@ _4 TILs and counting..._
 
 ### Categories
 
+* [bash](#bash)
 * [Git](#git)
 * [GitHub](#github)
 * [Naming Conventions](#naming-conventions)
 
 ---
+
+### bash
+
+* [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
 
 ### Git
 
