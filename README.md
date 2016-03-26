@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_5 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
@@ -16,12 +16,14 @@ _5 TILs and counting..._
 * [Git](#git)
 * [GitHub](#github)
 * [Naming Conventions](#naming-conventions)
+* [Regular Expressions](#regular-expressions)
 
 ---
 
 ### bash
 
 * [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
+* [Make an array containing the files in a directory](bash/array-of-files-in-directory.md)
 
 ### Git
 
@@ -35,6 +37,10 @@ _5 TILs and counting..._
 ### Naming Conventions
 
 * [Semantic Versioning](naming-conventions/semantic-versioning.md)
+
+### Regular Expressions
+
+* [Convert camelCased names to Python names](regex/convert-camel-cased-names-to-python-names.md)
 
 ## About
 
