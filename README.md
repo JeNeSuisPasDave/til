@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_7 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -29,6 +29,8 @@ _7 TILs and counting..._
 
 * [Git steps after completing a topic branch](git/completing-topic-branch.md)
 * [Copy file from another branch](git/copy-file-from-another-branch.md)
+* [Compare working file with another branch](git/compare-working-file-with-another-branch.md)
+* [Compare two branches](git/compare-two-branches.md)
 
 ### GitHub
 
