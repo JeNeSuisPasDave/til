@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _10 TILs and counting..._
 ### GitHub
 
 * [Push an existing repo to GitHub](github/push-existing-repo-to-github.md)
+* [Push a new local branch to a remote Git repository and track it too](github/push-new-branch-to-remote-repo-and-track-it.md)
 
 ### lang-cs
 

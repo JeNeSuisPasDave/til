@@ -59,3 +59,5 @@ For example, to give the unit test assembly `Test.BusinessLogic.dll` access to t
 ```
 
 You can give access to additional assemblies by adding additional `InteralsVisiblTo` attributes.
+
+_**Note:**_ This is one of the places I found this solution: [http://weblogs.asp.net/bhouse/using-internalsvisibleto-attribute-with-strong-named-assemblies](http://weblogs.asp.net/bhouse/using-internalsvisibleto-attribute-with-strong-named-assemblies)
