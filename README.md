@@ -8,6 +8,8 @@ warrant a full blog post.
 
 _10 TILs and counting..._
 
+---
+
 ### Categories
 
 * [bash](#bash)
