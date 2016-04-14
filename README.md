@@ -39,7 +39,7 @@ _10 TILs and counting..._
 
 ### lang-cs
 
-* [How to grant a unit tests access to internal types](github/granting-test-assembly-access-to-target-assembly-internal-types.md)
+* [How to grant a unit tests access to internal types](lang-cs/granting-test-assembly-access-to-target-assembly-internal-types.md)
 
 ### Naming Conventions
 
