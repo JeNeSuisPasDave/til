@@ -6,15 +6,14 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_9 TILs and counting..._
-
----
+_10 TILs and counting..._
 
 ### Categories
 
 * [bash](#bash)
 * [Git](#git)
 * [GitHub](#github)
+* [lang-cs](#langcs)
 * [Naming Conventions](#naming-conventions)
 * [Regular Expressions](#regular-expressions)
 
@@ -35,6 +34,10 @@ _9 TILs and counting..._
 ### GitHub
 
 * [Push an existing repo to GitHub](github/push-existing-repo-to-github.md)
+
+### lang-cs
+
+* [How to grant a unit tests access to internal types](github/granting-test-assembly-access-to-target-assembly-internal-types.md)
 
 ### Naming Conventions
 
