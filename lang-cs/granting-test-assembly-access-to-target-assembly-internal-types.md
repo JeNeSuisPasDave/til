@@ -58,4 +58,4 @@ For example, to give the unit test assembly `Test.BusinessLogic.dll` access to t
 	"Test.BusinessLogic, PublicKey=0024000004800000940000000602000000240000525341310004000001000100db9f7ebb7dd7b57bdaf8640fe95fa3a45c30a188b11a919e73046b8fa8885b5bb5ed941fd4b9e6d108f1ee50d5e073cae6e7dcbba289d8f45280a8105e6951b04d7f67846f582d24b3e9f6344529df4fa28d9cd088ece769a780453a52f761d2a2a3f55adc89c0307e555ac4f32ac50710d7f94b425ac65f95aaa280849924ec")]
 ```
 
-You can add give access to additional assemblies by adding additional `InteralsVisiblTo` attributes.
+You can give access to additional assemblies by adding additional `InteralsVisiblTo` attributes.
