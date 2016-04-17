@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _11 TILs and counting..._
 * [GitHub](#github)
 * [lang-cs](#langcs)
 * [Naming Conventions](#naming-conventions)
+* [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
 
 ---
@@ -45,6 +46,10 @@ _11 TILs and counting..._
 ### Naming Conventions
 
 * [Semantic Versioning](naming-conventions/semantic-versioning.md)
+
+### Powershell
+
+* [Sending ouput to /dev/null](powershell/sending-output-to-dev-null.md)
 
 ### Regular Expressions
 
