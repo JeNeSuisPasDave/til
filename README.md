@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_12 TILs and counting..._
+_13 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _12 TILs and counting..._
 * [Naming Conventions](#naming-conventions)
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
+* [wget Recipes](#wget-recipes)
 
 ---
 
@@ -54,6 +55,10 @@ _12 TILs and counting..._
 ### Regular Expressions
 
 * [Convert camelCased names to Python names](regex/convert-camel-cased-names-to-python-names.md)
+
+### wget Recipes
+
+* [Society of Mind - Marvin Minsky](wget-recipes/society-of-mind-minsky.md)
 
 ## About
 
