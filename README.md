@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -30,15 +30,16 @@ _13 TILs and counting..._
 
 ### Git
 
-* [Git steps after completing a topic branch](git/completing-topic-branch.md)
-* [Copy file from another branch](git/copy-file-from-another-branch.md)
-* [Compare working file with another branch](git/compare-working-file-with-another-branch.md)
 * [Compare two branches](git/compare-two-branches.md)
+* [Compare working file with another branch](git/compare-working-file-with-another-branch.md)
+* [Copy file from another branch](git/copy-file-from-another-branch.md)
+* [Git steps after completing a topic branch](git/completing-topic-branch.md)
+* [List the files in a commit](git/list-files-in-a-commit.md)
 
 ### GitHub
 
-* [Push an existing repo to GitHub](github/push-existing-repo-to-github.md)
 * [Push a new local branch to a remote Git repository and track it too](github/push-new-branch-to-remote-repo-and-track-it.md)
+* [Push an existing repo to GitHub](github/push-existing-repo-to-github.md)
 
 ### lang-cs
 
