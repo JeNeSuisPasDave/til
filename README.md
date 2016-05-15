@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _16 TILs and counting..._
 
 ### Git
 
+* [Add a submodule repository](git/add-a-submodule-repo.md)
 * [Add a remote for the original repo of a forked repo](git/add-remote-from-original-repo.md)
 * [Compare two branches](git/compare-two-branches.md)
 * [Compare working file with another branch](git/compare-working-file-with-another-branch.md)
