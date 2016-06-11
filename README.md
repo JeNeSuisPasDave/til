@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_18 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -31,6 +31,7 @@ _18 TILs and counting..._
 
 ### Docker
 
+* [Open a shell in a running container](docker/open-shell-in-daemonized-container.md)
 * [Remove orphaned images](docker/remove-orphaned-images.md)
 
 ### Git
@@ -59,6 +60,7 @@ _18 TILs and counting..._
 
 ### Powershell
 
+* [Returning a collection as an object](powershell/returning-a-collection-as-an-object.md)
 * [Sending ouput to /dev/null](powershell/sending-output-to-dev-null.md)
 
 ### Regular Expressions
