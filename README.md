@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_20 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
@@ -26,8 +26,11 @@ _20 TILs and counting..._
 
 ### bash
 
+* [Arrays of strings and lines of text](#arrays-of-strings-and-lines-of-text)
+* [Display a string as hex or escaped characters](#display-string-as-hex-or-escaped-characters.md)
 * [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
 * [Make an array containing the files in a directory](bash/array-of-files-in-directory.md)
+* [Test whether a command exists](bash/test-whether-command-exists.md)
 
 ### Docker
 
