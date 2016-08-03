@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_23 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _23 TILs and counting..._
 * [Naming Conventions](#naming-conventions)
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
+* [SSH](#ssh)
 * [wget Recipes](#wget-recipes)
 
 ---
@@ -69,6 +70,11 @@ _23 TILs and counting..._
 ### Regular Expressions
 
 * [Convert camelCased names to Python names](regex/convert-camel-cased-names-to-python-names.md)
+
+### SSH
+
+* [(ssh client) Associate a pseudo-hostname with an SSH key](ssh/associate-pseudohost-with-ssh-key.md)
+* [(ssh server) Permit only SSH key authentication](ssh/permit-only-ssh-key-authentication.md)
 
 ### wget Recipes
 
