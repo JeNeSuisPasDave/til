@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -17,6 +17,7 @@ _25 TILs and counting..._
 * [Git](#git)
 * [GitHub](#github)
 * [lang-cs](#langcs)
+* [linux](#linux)
 * [Naming Conventions](#naming-conventions)
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
@@ -57,6 +58,10 @@ _25 TILs and counting..._
 ### lang-cs
 
 * [How to grant a unit tests access to internal types](lang-cs/granting-test-assembly-access-to-target-assembly-internal-types.md)
+
+### Linux
+
+* [Keeping an Ubuntu system patched](linux/keeping-ubunut-system-patched.md)
 
 ### Naming Conventions
 
