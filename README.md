@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_26 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -62,6 +62,8 @@ _26 TILs and counting..._
 ### Linux
 
 * [Keeping an Ubuntu system patched](linux/keeping-ubunut-system-patched.md)
+* [Ubuntu Desktop keyboard shortcuts HUD](linux/keyboard-shortcut-hud.md)
+* [Pairing a Logitech wireless mouse on Ubuntu Desktop](linux/pairing-logitech-wireless-mouse.md)
 
 ### Naming Conventions
 
