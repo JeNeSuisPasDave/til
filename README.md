@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_29 TILs and counting..._
+_31 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _29 TILs and counting..._
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
 * [SSH](#ssh)
+* [Unix](#unix)
 * [wget Recipes](#wget-recipes)
 
 ---
@@ -36,6 +37,7 @@ _29 TILs and counting..._
 
 ### Docker
 
+* [Adding a tag to an existing image](docker/add-tag-to-existing-image.md)
 * [Open a shell in a running container](docker/open-shell-in-daemonized-container.md)
 * [Remove orphaned images](docker/remove-orphaned-images.md)
 
@@ -83,6 +85,10 @@ _29 TILs and counting..._
 
 * [(ssh client) Associate a pseudo-hostname with an SSH key](ssh/associate-pseudohost-with-ssh-key.md)
 * [(ssh server) Permit only SSH key authentication](ssh/permit-only-ssh-key-authentication.md)
+
+### Unix
+
+* [Creating a soft link to a directory](unix/creating-a-soft-link-to-a-directory.md)
 
 ### wget Recipes
 
