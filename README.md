@@ -6,13 +6,13 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_31 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
 ### Categories
 
-* [bash](#bash)
+* [Bash](#bash)
 * [Docker](#docker)
 * [Git](#git)
 * [GitHub](#github)
@@ -27,10 +27,12 @@ _31 TILs and counting..._
 
 ---
 
-### bash
+### Bash
 
-* [Arrays of strings and lines of text](#arrays-of-strings-and-lines-of-text)
+* [Appending and Composing Arrays](bash/appending-and-composing-arrays.md)
+* [Arrays of strings and lines of text](bash/arrays-of-strings-and-lines-of-text.md)
 * [Display a string as hex or escaped characters](#display-string-as-hex-or-escaped-characters.md)
+* [Find command with variable paths list](bash/find-command-with-variable-paths-list.md)
 * [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
 * [Make an array containing the files in a directory](bash/array-of-files-in-directory.md)
 * [Test whether a command exists](bash/test-whether-command-exists.md)
