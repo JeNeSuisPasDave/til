@@ -1,0 +1,55 @@
+# EditorConfig file: http://EditorConfig.org
+# 
+# Used to control editor configuration.
+#
+#   * BBEdit handles it natively.
+#   * Notepad++ needs a plugin. https://github.com/editorconfig/editorconfig-notepad-plus-plus#readme
+#   * Sublime Text needs a plugin: https://github.com/sindresorhus/editorconfig-sublime#readme
+#   * Atom needs a plugin. https://github.com/sindresorhus/atom-editorconfig#readme
+#   * Others (including XCode and Visual Studio). http://editorconfig.org/#download
+#
+
+# Extensions
+#
+#   py  Python source code
+#   md  Markdown source code, compatible with GFM and MMD
+#   sh  Bash shell script; Bourne shell script
+#   src Bash or Bournse shell script designed to be 'sourced'
+#   go  GoLang source code
+#
+
+# top-most EditorConfig file
+#
+root = true
+
+# Unix-style newlines with a newline ending every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+# Plain text files
+#
+[*.txt]
+# tab handling should default, but ideally it woudl be 4 spaces
+trim_trailing_whitespace = true
+
+# Files with 4 space indentation
+#
+[*.{py, md}]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace = true
+
+# Files with 2 space indentation
+#
+[*.{sh, src}]
+indent_style = space
+indent_size = 2
+trim_trailing_whitespace = true
+
+# Files with 4 column indentation
+#
+[*.{go}]
+indent_style = tab
+indent_size = 4
+trim_trailing_whitespace = true

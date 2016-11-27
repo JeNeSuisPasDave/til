@@ -10,7 +10,7 @@ _33 TILs and counting..._
 
 ---
 
-### Categories
+## Categories
 
 * [Bash](#bash)
 * [Docker](#docker)
