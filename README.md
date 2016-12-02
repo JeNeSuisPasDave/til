@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_33 TILs and counting..._
+_34 TILs and counting..._
 
 ---
 
@@ -91,6 +91,7 @@ _33 TILs and counting..._
 ### Unix
 
 * [Creating a soft link to a directory](unix/creating-a-soft-link-to-a-directory.md)
+* [How much data is in a directory](unix/how-much-data-is-in-a-directory.md)
 
 ### wget Recipes
 
