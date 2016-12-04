@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_34 TILs and counting..._
+_36 TILs and counting..._
 
 ---
 
@@ -40,6 +40,8 @@ _34 TILs and counting..._
 ### Docker
 
 * [Adding a tag to an existing image](docker/add-tag-to-existing-image.md)
+* [Listing images with a specific label](docker/listing-images-with-a-specific-label.md)
+* [Listing the labels of an image (or container or task)](docker/listing-labels-of-an-image.md)
 * [Open a shell in a running container](docker/open-shell-in-daemonized-container.md)
 * [Remove orphaned images](docker/remove-orphaned-images.md)
 
