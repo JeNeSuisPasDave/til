@@ -12,6 +12,22 @@ You can remove orphaned images using this `bash` command:
 docker rmi $(docker images -f dangling=true -q)
 ```
 
+## Update ... nice cleanup function
+
+_(Update 2016-12-04T14:48:43-0600.)_
+
+I found a nice Bash function that _first_ blows away stopped containers and _then_ removes dangling images.
+
+```bash
+# found this nice image/container cleanup script here:
+# http://stackoverflow.com/a/32723127/1392864
+#
+dkr_cleanup_unused() {
+  docker rm -v $( docker ps --filter status=exited -q 2> /dev/null ) 2> /dev/null
+  docker rmi $( docker images --filter dangling=true -q 2> /dev/null ) 2> /dev/null
+}
+```
+
 ---
 
 &copy; 2016 Dave Hein
