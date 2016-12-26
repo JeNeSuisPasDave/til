@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_36 TILs and counting..._
+_37 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _36 TILs and counting..._
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
 * [SSH](#ssh)
+* [TLS](#tls)
 * [Unix](#unix)
 * [wget Recipes](#wget-recipes)
 
@@ -89,6 +90,10 @@ _36 TILs and counting..._
 
 * [(ssh client) Associate a pseudo-hostname with an SSH key](ssh/associate-pseudohost-with-ssh-key.md)
 * [(ssh server) Permit only SSH key authentication](ssh/permit-only-ssh-key-authentication.md)
+
+### TLS
+
+* [Create a CA cert on local machine](tls/create-local-ca-cert.md)
 
 ### Unix
 
