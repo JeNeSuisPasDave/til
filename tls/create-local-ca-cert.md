@@ -1,5 +1,7 @@
 # Create a CA cert on local machine
 
+_Tested with OpenSSL 1.0.2j on OS X El Capitan (10.11.6)._
+
 I want to create a CA cert that I can use to authenticate server certificates that I use locally and in non-public scenarios (e.g. within a private network).
 
 I've got `openssl` installed on my OS X 10.11 (El Capitan) system. I used [Mac Ports][macports] to install it.
@@ -214,3 +216,6 @@ FHuO8pI0mdSSIo44g/iZRLCEzePnB1wXnwB3Vn+2FRCGa38cRYwtbDtXFY/ON/nj
 -----END CERTIFICATE-----
 ```
 
+## Credits
+
+Got much of this from [this Slashdot answer](http://superuser.com/questions/462295/openssl-ca-and-non-ca-certificate#464288).
