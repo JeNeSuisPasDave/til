@@ -8,7 +8,7 @@ The solution is to use a small set of CA certificates that is distributed to eac
 
 ## establishing the local CA certificate
 
-The rest of this post assumes a local CA certificate and certificate database generates as described in [Create a CA cert on local machine](./create-local-cert.md). This solution depends that some of the files and directories created in the process of generating the CA cert as per that TIL.
+The rest of this post assumes a local CA certificate and certificate database generates as described in [Create a CA cert on local machine](create-local-ca-cert.md). This solution depends that some of the files and directories created in the process of generating the CA cert as per that TIL.
 
 ## Add a server certificate extension section to OpenSSL config file
 

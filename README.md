@@ -96,7 +96,7 @@ _40 TILs and counting..._
 * [Create a CA cert on local machine](tls/create-local-ca-cert.md)
 * [Add CA certificate to Firefox](tls/add-ca-cert-to-firefox.md)
 * [Add a CA certificate to the OS X keychain](tls/add-ca-cert-to-osx-keychain.md)
-* [reate server certificate (using local CA)](tls/create-server-cert-using-local-ca-cert.md)
+* [Create server certificate (using local CA)](tls/create-server-cert-using-local-ca-cert.md)
 
 ### Unix
 
