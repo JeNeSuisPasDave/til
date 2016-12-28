@@ -74,7 +74,6 @@ chmod 700 "${CERT_PRIVATE_DIR}"
 openssl req $SSLEAY_CONFIG -new \
   -nodes -keyout "${CERT_PRIVATE_DIR}/certkey.pem" \
   -out "${CERT_DIR}/certreq.pem" \
-  -days 90 \
   -subj "${CERT_SUBJ}"
 chmod 600 "${CERT_PRIVATE_DIR}/certkey.pem"
 
@@ -83,6 +82,7 @@ openssl ca $SSLEAY_CONFIG \
   -keyfile "${ROOTCA_PRIVATE_DIR}/rootCAkey.pem" \
   -passin "$ROOTCA_PASS" \
   -policy policy_anything \
+  -days 90 \
   -out "${CERT_DIR}/cert.pem" \
   -extensions v3_usr \
   -infiles "${CERT_DIR}/certreq.pem"
@@ -115,8 +115,8 @@ Certificate Details:
         Serial Number:
             fc:59:6f:1e:0f:65:e6:43
         Validity
-            Not Before: Dec 26 23:23:40 2016 GMT
-            Not After : Dec 26 23:23:40 2017 GMT
+            Not Before: Dec 28 02:53:57 2016 GMT
+            Not After : Mar 28 02:53:57 2017 GMT
         Subject:
             countryName               = US
             stateOrProvinceName       = TX
@@ -139,7 +139,7 @@ Certificate Details:
             X509v3 Authority Key Identifier:
                 keyid:59:05:10:61:58:22:D2:86:A5:E2:F1:99:57:5A:36:60:3C:58:9D:EA
 
-Certificate is to be certified until Dec 26 23:23:40 2017 GMT (365 days)
+Certificate is to be certified until Mar 28 02:53:57 2017 GMT (90 days)
 Sign the certificate? [y/n]:y
 
 
