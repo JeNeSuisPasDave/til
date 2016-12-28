@@ -17,6 +17,7 @@ _40 TILs and counting..._
 * [Git](#git)
 * [GitHub](#github)
 * [lang-cs](#langcs)
+* [lang-python](#lang-python)
 * [linux](#linux)
 * [Naming Conventions](#naming-conventions)
 * [Powershell](#powershell)
@@ -67,6 +68,10 @@ _40 TILs and counting..._
 
 * [How to grant a unit tests access to internal types](lang-cs/granting-test-assembly-access-to-target-assembly-internal-types.md)
 
+### lang-python
+
+* [Setting up the Flask development server to use HTTPS](lang-python/flask-dev-server-via-https.md)
+
 ### Linux
 
 * [Keeping an Ubuntu system patched](linux/keeping-ubunut-system-patched.md)
@@ -93,9 +98,9 @@ _40 TILs and counting..._
 
 ### TLS
 
-* [Create a CA cert on local machine](tls/create-local-ca-cert.md)
 * [Add CA certificate to Firefox](tls/add-ca-cert-to-firefox.md)
 * [Add a CA certificate to the OS X keychain](tls/add-ca-cert-to-osx-keychain.md)
+* [Create a CA cert on local machine](tls/create-local-ca-cert.md)
 * [Create server certificate (using local CA)](tls/create-server-cert-using-local-ca-cert.md)
 
 ### Unix
