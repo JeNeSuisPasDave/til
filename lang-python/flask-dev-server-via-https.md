@@ -61,3 +61,9 @@ python3 manage.py runserver --host 0.0.0.0 --port 443 --debug --reload
 ## Comments
 
 I don't need to put the CA cert in the trusted store on the container because the Flask app is a server, and is providing the cert. If it was a client that needed to validate the cert, then I'd have to add the root CA cert to the container's trusted store.
+
+---
+
+&copy; 2016 Dave Hein
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/JeNeSuisPasDave/til" property="cc:attributionName" rel="cc:attributionURL">Dave Hein</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
