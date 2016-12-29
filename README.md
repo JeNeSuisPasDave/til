@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_40 TILs and counting..._
+_42 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _40 TILs and counting..._
 * [Arrays of strings and lines of text](bash/arrays-of-strings-and-lines-of-text.md)
 * [Display a string as hex or escaped characters](#display-string-as-hex-or-escaped-characters.md)
 * [Find command with variable paths list](bash/find-command-with-variable-paths-list.md)
+* [How to create and safely use a temporary directory](bash/safe-use-of-temporary-directory.md)
 * [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
 * [Make an array containing the files in a directory](bash/array-of-files-in-directory.md)
 * [Test whether a command exists](bash/test-whether-command-exists.md)
@@ -98,8 +99,8 @@ _40 TILs and counting..._
 
 ### TLS
 
-* [Add CA certificate to Firefox](tls/add-ca-cert-to-firefox.md)
 * [Add a CA certificate to the OS X keychain](tls/add-ca-cert-to-osx-keychain.md)
+* [Add CA certificate to Firefox](tls/add-ca-cert-to-firefox.md)
 * [Create a CA cert on local machine](tls/create-local-ca-cert.md)
 * [Create server certificate (using local CA)](tls/create-server-cert-using-local-ca-cert.md)
 
