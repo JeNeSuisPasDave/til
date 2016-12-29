@@ -9,7 +9,7 @@ In either case, you want to make sure you clean up after yourself. Whether the B
 Here's a two-line example that shows how to establish a temporary directory, and how to ensure that it is cleaned up no matter how the script exits.
 
 ```bash
-TD_=mktemp -dt "$(basename "$0").XXXXXX"
+TD_=$(mktemp -d "${TMPDIR}$(basename 0).XXXXXXXXXXXX")
 trap "rm -r $TD_" EXIT
 ```
 
@@ -19,7 +19,7 @@ I like to specify `rm -r` rather than `rm -rf` any time I can, just to avoid ina
 
 ## Credits
 
-I got these commands and tips from the comments to [this Slashdot answer: http://stackoverflow.com/a/10983009/1392864](http://stackoverflow.com/a/10983009/1392864)
+I got these commands and tips from the text and comments of [this Slashdot answer: http://stackoverflow.com/a/10983009/1392864](http://stackoverflow.com/a/10983009/1392864)
 
 ---
 

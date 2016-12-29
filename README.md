@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_42 TILs and counting..._
+_44 TILs and counting..._
 
 ---
 
@@ -71,6 +71,7 @@ _42 TILs and counting..._
 
 ### lang-python
 
+* [HTTPie: Verify HTTPS connection with system CA bundle](lang-python/httpie-verify-https-with-ca-bundle.md)
 * [Setting up the Flask development server to use HTTPS](lang-python/flask-dev-server-via-https.md)
 
 ### Linux
@@ -101,6 +102,7 @@ _42 TILs and counting..._
 
 * [Add a CA certificate to the OS X keychain](tls/add-ca-cert-to-osx-keychain.md)
 * [Add CA certificate to Firefox](tls/add-ca-cert-to-firefox.md)
+* [Add CA certificates to Linux system CA certificate store](tls/add-ca-certs-to-linux-ca-store.md)
 * [Create a CA cert on local machine](tls/create-local-ca-cert.md)
 * [Create server certificate (using local CA)](tls/create-server-cert-using-local-ca-cert.md)
 
