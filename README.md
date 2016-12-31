@@ -39,6 +39,7 @@ _45 TILs and counting..._
 * [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
 * [Make an array containing the files in a directory](bash/array-of-files-in-directory.md)
 * [Test whether a command exists](bash/test-whether-command-exists.md)
+* [Trim whitespace from variable](bash/trim-whitespace-from-variable.md)
 
 ### Docker
 
