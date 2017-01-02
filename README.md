@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_47 TILs and counting..._
+_48 TILs and counting..._
 
 ---
 
@@ -75,6 +75,7 @@ _47 TILs and counting..._
 ### lang-python
 
 * [HTTPie: Verify HTTPS connection with system CA bundle](lang-python/httpie-verify-https-with-ca-bundle.md)
+* [Produce console output from a unit test](lang-python/console-output-from-unittest.md)
 * [Setting up the Flask development server to use HTTPS](lang-python/flask-dev-server-via-https.md)
 
 ### Linux
