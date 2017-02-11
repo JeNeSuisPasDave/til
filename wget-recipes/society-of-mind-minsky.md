@@ -1,3 +1,5 @@
+# Minsky's Society of Mind
+
 Marvin Minsky's classic work, _Society of Mind_, has been released with a Creative Commons license in a [web browsable form][soc].
 
 [soc]: http://aurellem.org/society-of-mind/index.html
