@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_49 TILs and counting..._
+_51 TILs and counting..._
 
 ---
 
@@ -38,6 +38,7 @@ _49 TILs and counting..._
 * [How to create and safely use a temporary directory](bash/safe-use-of-temporary-directory.md)
 * [How to return a value from a function](bash/how-to-return-a-value-from-a-function.md)
 * [Make an array containing the files in a directory](bash/array-of-files-in-directory.md)
+* [Pass arguments to a command alias](bash/passing-arguments-to-a-command-alias.md)
 * [Test whether a command exists](bash/test-whether-command-exists.md)
 * [Trim whitespace from variable](bash/trim-whitespace-from-variable.md)
 
