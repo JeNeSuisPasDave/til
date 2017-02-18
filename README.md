@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_52 TILs and counting..._
+_54 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _52 TILs and counting..._
 * [Naming Conventions](#naming-conventions)
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
+* [rsync Recipes](#rsync-recipes)
 * [SSH](#ssh)
 * [TLS](#tls)
 * [Unix](#unix)
@@ -98,6 +99,11 @@ _52 TILs and counting..._
 ### Regular Expressions
 
 * [Convert camelCased names to Python names](regex/convert-camel-cased-names-to-python-names.md)
+
+### rsync Recipes
+
+* [Ignore modification time when pushing changes](rsync-recipes/ignore-modification-time-when-pushing-changes.md)
+* [Mirror one local folder to another](rsync-recipes/mirror-one-local-folder-to-another.md)
 
 ### SSH
 
