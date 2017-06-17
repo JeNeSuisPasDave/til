@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_54 TILs and counting..._
+_55 TILs and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _54 TILs and counting..._
 * [lang-cs](#langcs)
 * [lang-python](#lang-python)
 * [linux](#linux)
+* [macOS](#macos)
 * [Naming Conventions](#naming-conventions)
 * [Powershell](#powershell)
 * [Regular Expressions](#regular-expressions)
@@ -87,6 +88,10 @@ _54 TILs and counting..._
 * [Ubuntu Desktop keyboard shortcuts HUD](linux/keyboard-shortcut-hud.md)
 * [Pairing a Logitech wireless mouse on Ubuntu Desktop](linux/pairing-logitech-wireless-mouse.md)
 
+### macOS
+
+* [Giving a standard user account SUDO rights](macos/giving-standard-user-account-sudo-rights.md)
+
 ### Naming Conventions
 
 * [Semantic Versioning](naming-conventions/semantic-versioning.md)
@@ -141,7 +146,7 @@ Inspired by [jbranchaud/til](https://github.com/jbranchaud/til) who "shamelessly
 
 ## License
 
-&copy; 2016 Dave Hein
+&copy; 2016 Dave Hein<br />
 &copy; 2017 Dave Hein
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" rel="dct:type">work</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/JeNeSuisPasDave/til" property="cc:attributionName" rel="cc:attributionURL">Dave Hein</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
