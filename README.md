@@ -6,7 +6,7 @@ A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
-_55 TILs and counting..._
+_56 TILs and counting..._
 
 ---
 
@@ -91,6 +91,7 @@ _55 TILs and counting..._
 ### macOS
 
 * [Giving a standard user account SUDO rights](macos/giving-standard-user-account-sudo-rights.md)
+* [Preventing Spotlight from indexing removable thumb drives](macos/preventing-spotlight-from-indexing-removable-thumb-drives.md)
 
 ### Naming Conventions
 
